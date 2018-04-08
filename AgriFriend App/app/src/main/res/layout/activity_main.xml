@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="268dp"
+        tools:ignore="MissingConstraints">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="AgriFriend"
+            android:layout_marginTop="120dp"
+            android:textSize="40dp"
+            android:gravity="center"
+            android:fontFamily="sans-serif-smallcaps"/>
+        <Button
+            android:id="@+id/marketPrices"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@color/Buttons"
+            android:fontFamily="casual"
+            android:gravity="center"
+            android:onClick="marketPrices"
+            android:padding="20dp"
+            android:text="Market Prices"
+            android:textColor="@color/White" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_gravity="center"
+            android:layout_margin="20dp"
+            android:layout_centerHorizontal="true"
+
+            android:text="(or)" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Buttons"
+            android:fontFamily="casual"
+            android:gravity="center"
+            android:onClick="forecast"
+            android:padding="20dp"
+            android:text="Forecast(s)"
+
+            android:textColor="@color/White" />
+
+
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

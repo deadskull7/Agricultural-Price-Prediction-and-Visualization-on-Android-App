@@ -1,0 +1,27 @@
+timestamp,state,district,market,commodity,variety,arrival_date,min_price,max_price,modal_price
+1523025127,Uttar Pradesh,Agra,Khairagarh,Apple,Delicious,06/04/2018,5900.0,5960.0,5930.0
+1523025127,Uttar Pradesh,Agra,Khairagarh,Bajra(Pearl Millet/Cumbu),Deshi,06/04/2018,1070.0,1110.0,1090.0
+1523025127,Uttar Pradesh,Agra,Khairagarh,Banana,Banana - Ripe,06/04/2018,1500.0,1540.0,1520.0
+1523025127,Uttar Pradesh,Agra,Khairagarh,Barley (Jau),Deshi,06/04/2018,1400.0,1440.0,1420.0
+1523025127,Uttar Pradesh,Agra,Khairagarh,Bhindi(Ladies Finger),Bhindi,06/04/2018,2400.0,2460.0,2430.0
+1523025127,Uttar Pradesh,Agra,Khairagarh,Bitter gourd,Bitter Gourd,06/04/2018,1800.0,1900.0,1850.0
+1523025127,Uttar Pradesh,Agra,Khairagarh,Black Gram (Urd Beans),Desi,06/04/2018,4100.0,4200.0,4150.0
+1523025127,Uttar Pradesh,Agra,Khairagarh,Bottle gourd,Bottle Gourd,06/04/2018,780.0,820.0,800.0
+1523025127,Uttar Pradesh,Agra,Khairagarh,Brinjal,Round/Long,06/04/2018,600.0,640.0,620.0
+1523025127,Uttar Pradesh,Agra,Khairagarh,Cabbage,Cabbage,06/04/2018,500.0,560.0,530.0
+1523025127,Uttar Pradesh,Agra,Khairagarh,Carrot,Carrot,06/04/2018,600.0,660.0,630.0
+1523025127,Uttar Pradesh,Agra,Khairagarh,Cauliflower,Cauliflower,06/04/2018,600.0,660.0,630.0
+1523025127,Uttar Pradesh,Agra,Khairagarh,Cucumbar(Kheera),Cucumbar,06/04/2018,800.0,900.0,850.0
+1523025127,Uttar Pradesh,Agra,Khairagarh,Green Chilli,Green Chilly,06/04/2018,2470.0,2530.0,2500.0
+1523025127,Uttar Pradesh,Agra,Khairagarh,Gur(Jaggery),Khandsari,06/04/2018,2800.0,2860.0,2830.0
+1523025127,Uttar Pradesh,Agra,Khairagarh,Lemon,Lemon,06/04/2018,3500.0,3600.0,3550.0
+1523025127,Uttar Pradesh,Agra,Khairagarh,Mousambi(Sweet Lime),Mousambi,06/04/2018,2800.0,2860.0,2830.0
+1523025127,Uttar Pradesh,Agra,Khairagarh,Mustard,Sarson(Black),06/04/2018,3400.0,3600.0,3500.0
+1523025127,Uttar Pradesh,Agra,Khairagarh,Onion,Red,06/04/2018,1170.0,1210.0,1190.0
+1523025127,Uttar Pradesh,Agra,Khairagarh,Papaya,Papaya,06/04/2018,1500.0,1560.0,1530.0
+1523025127,Uttar Pradesh,Agra,Khairagarh,Potato,Desi,06/04/2018,840.0,860.0,850.0
+1523025127,Uttar Pradesh,Agra,Khairagarh,Pumpkin,Pumpkin,06/04/2018,900.0,960.0,930.0
+1523025127,Uttar Pradesh,Agra,Khairagarh,Raddish,Raddish,06/04/2018,500.0,560.0,530.0
+1523025127,Uttar Pradesh,Agra,Khairagarh,Rice,III,06/04/2018,2500.0,2540.0,2520.0
+1523025127,Uttar Pradesh,Agra,Khairagarh,Tomato,Deshi,06/04/2018,600.0,660.0,630.0
+1523025127,Uttar Pradesh,Agra,Khairagarh,Wheat,Dara,06/04/2018,1600.0,1640.0,1620.0

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GetPricesData">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="MarketPrices"
+            android:layout_marginTop="30dp"
+            android:textSize="40dp"
+            android:gravity="center"
+            android:fontFamily="sans-serif-smallcaps"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Enter Details to search prices"
+            android:textSize="20dp"
+            android:fontFamily="casual"
+            android:gravity="center"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/state"
+            android:hint="State(Compulsory)"
+            />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/district"
+            android:hint="Disrict(Compulsory)"
+            android:layout_marginBottom="50dp"
+            />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/market"
+            android:hint="Market"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="(or)"
+            android:padding="10dp"
+            android:layout_gravity="center"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/commodity"
+            android:hint="Commodity"
+            />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:onClick="submit1"
+            android:background="@color/Buttons"
+            android:textColor="@color/White"
+            android:padding="10dp"
+            android:fontFamily="casual"
+            android:layout_margin="50dp"
+            android:text="market wise" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:onClick="submit2"
+            android:background="@color/Buttons"
+            android:textColor="@color/White"
+            android:padding="10dp"
+            android:fontFamily="casual"
+            android:text="Commodity Wise" />
+    </LinearLayout>
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>
