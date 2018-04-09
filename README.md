@@ -1,6 +1,6 @@
 # Agricultural-Price-Prediction-and-Visualization-on-Android-App
 
-![Screenshot](Screenshots/Screenshot_20180408-111159.png)  ![Screenshot]Screenshots/Screenshot_20180408-111043.png   ![Screenshot](2.png)  
+![Screenshot](Screenshots/Screenshot_20180408-111159.png) ![Screenshot](Screenshots/Screenshot_20180408-111043.png) ![Screenshot](2.png)  
 
 Agriculture Price Monitioring
 I have used data provided by open government site data.gov.in, which updates prices of market daily .
