@@ -36,3 +36,4 @@ pairplot , stripplot , jointplot, regplot , etc are made and also deployed on th
 
 **A different .iPynb file is used for the time series predictions using regression algorithms and would send the csv file of prediction along with the graph to the andoid app when given a 
 request. **
+ 
