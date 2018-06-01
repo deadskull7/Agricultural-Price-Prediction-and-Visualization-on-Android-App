@@ -28,7 +28,7 @@ Select the type of item and click link for future predictions.**
 
 **Things Used:
 We have used pandas , numpy , scikit learn , seaborn and matplotlib libraries for the same . The dataset is thoroughly analysed using different function available in pandas in my .iPynb file .
-Not just in-built functions are used but also many user made functions are made to make the working smooth . Various graphs like pointplot , heat-map , barplot , kdeplot , distplot,
+Not just in-built functions are used but also many user made functions are made to make the working smooth . Various graphs like pointplot , heat-map , barplot , kdeplot , distplot,  
 pairplot , stripplot , jointplot, regplot , etc are made and also deployed on the android app as well .** 
    
 **To integrate the android app and machine learning analysis outputs , we have used Flask to host our laptop as the server . We have a separate file for the Flask as server.py .
