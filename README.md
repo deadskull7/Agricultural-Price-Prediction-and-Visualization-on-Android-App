@@ -23,7 +23,7 @@ Regression techniques on timeseries data is used to predict future prices.
 Select the type of item and click link for future predictions.**
 
 
-
+ 
 **There are 3 java files Forecasts, DisplayGraphs, DisplayGraphs2 ..... Please change the localhost "server_name" at time of testing as the server name changes each time a new server is made.**
 
 **Things Used:
