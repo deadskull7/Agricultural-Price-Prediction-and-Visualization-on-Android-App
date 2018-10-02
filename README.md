@@ -3,7 +3,7 @@
 ![Screenshot](Screenshots/Screenshot_20180408-111043.png) 
 ![Screenshot](Screenshots/Screenshot_20180408-111159.png) ![Screenshot](2.png)  
 
-**I have used data provided by open government site data.gov.in, which updates prices of market daily. **
+**I have used data which is provided by open government site data.gov.in, which updates prices of market daily. **
 
 **Working Interface Details:
 We have provided user choice to see current market prices based on two choices: market wise or commodity wise use increase assesibility options.**
